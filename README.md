@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izaaki87
+- 👋 Hi, I’m @charite izaaki
 - 👀 I’m interested in frontend Developoment
 - 🌱 I’m currently learning React scss javascript
 
