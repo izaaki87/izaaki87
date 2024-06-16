@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charite izaaki
-- 👀 I’m interested in frontend Developoment
-- 🌱 I’m currently learning React scss javascript
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning Ehical of hacking
 
 <!---
 izaaki87/izaaki87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
